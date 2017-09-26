@@ -1,7 +1,7 @@
 # Site settings
 title: ilham
 baseurl: "/"
-url: ""
+url: "ilhamtaufiq.github.io"
 
 # Build settings
 kramdown:
