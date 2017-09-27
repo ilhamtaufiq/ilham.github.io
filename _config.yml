@@ -11,7 +11,7 @@ permalink: pretty
 # Third-party services
 # just leave blank to disable it
 google_analytics: 
-disqus_shortname: tkjlab
+disqus_shortname: ilham-taufiq
 
 # Utils
 mathjax: true
