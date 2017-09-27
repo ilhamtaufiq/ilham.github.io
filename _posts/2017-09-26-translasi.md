@@ -1,3 +1,5 @@
+# Translasi Notasi Algoritma Kedalam Bahasa Pascal
+
 | Kelompok          | Algoritma            | Pascal      |
 | -------------     |:-------------------: | :---------  |
 | 1. Tipe Data      | boolean              | boolean     |
