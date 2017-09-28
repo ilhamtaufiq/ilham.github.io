@@ -48,3 +48,5 @@ identifier = constant_value;
              <td>String type constant</td>
               <td>nama = 'Ilham Taufiq';</td>
         </tr>
+### Contoh Program
+<script src="https://gist.github.com/ilhamtaufiq/1b8a65b8064d1eba6c85702aff46cb5f.js"></script>
