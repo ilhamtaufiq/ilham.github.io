@@ -48,5 +48,3 @@ identifier = constant_value;
              <td>String type constant</td>
               <td>nama = 'Ilham Taufiq';</td>
         </tr>
-    </tbody>
-</table>
