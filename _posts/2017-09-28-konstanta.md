@@ -21,16 +21,16 @@ identifier = constant_value;
 <table>
     <thead>
         <tr>
-            <th>Constant Type</th>
-            <th>Examples</th>
+            <th>Konstanta</th>
+            <th>Contoh</th>
         </tr>
         <tr>
             <td>Ordinal(Integer)type constant</td>
-            <td>valid_age = 21; </td>
+            <td>umur_maks = 25; </td>
         </tr>
         <tr>
             <td>Set type constant</td>
-            <td>Vowels = set of (A,E,I,O,U);</td>
+            <td>huruf_vokal = set of (A,E,I,O,U);</td>
         </tr>
         <tr>
             <td>Pointer type constant</td>
@@ -38,17 +38,15 @@ identifier = constant_value;
         </tr>
         <tr>
             <td>Real type constant</td>
-            <td><p>e = 2.7182818; 
-            <p>velocity_light = 3.0E+10;</p>
-            </td>
+            <td>PI = 3.141592654;</td>
         </tr>
         <tr>
             <td>Character type constant</td>
-            <td>Operator = '+';</td>
+            <td>Operator = '$';</td>
         </tr>
         <tr>
              <td>String type constant</td>
-              <td>president = 'Johnny Depp';</td>
+              <td>nama = 'Ilham Taufiq';</td>
         </tr>
     </tbody>
 </table>
