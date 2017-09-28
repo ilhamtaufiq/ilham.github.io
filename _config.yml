@@ -10,7 +10,7 @@ permalink: pretty
 
 # Third-party services
 # just leave blank to disable it
-google_analytics: 
+google_analytics: UA-107225095-1
 disqus_shortname: ilham-taufiq
 
 # Utils
