@@ -1,3 +1,4 @@
 # Sistem Informasi Penggajian 
 ## Studi Kasus Constanta, If Else Statement dan Repeat Until di Pascal
+### contoh
 <script src="https://gist.github.com/ilhamtaufiq/ed22bca4aa4447badbef95dc7a70adb3.js"></script>
